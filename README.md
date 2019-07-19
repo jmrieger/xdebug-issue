@@ -4,7 +4,7 @@ Docker - php-fpm 7.3.3, but also works this way on a 7.1 image, as well as my Ma
 ## Command
 ```
 docker built -t xdebug-issue . 
-docker-run xdebug-issue:latest
+docker run xdebug-issue:latest
 ```
 
 ## Expected Result:
